@@ -1,1 +1,1 @@
-console.log("Supermegahyper codi");
+modificat 2
